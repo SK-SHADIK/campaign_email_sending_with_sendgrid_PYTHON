@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "configparser": "^0.3.10",
+    "sendgrid": "^5.2.3"
+  }
+}
